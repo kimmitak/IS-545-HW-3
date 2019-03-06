@@ -1,0 +1,47 @@
+.container {
+    display: block;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+h2 {
+    text-align: center;
+    margin: 15px 0 15px 0;
+    font-size: 32px;
+    font-weight: bolder;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.list1 {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+}
+
+
+
+div > ul {
+
+    text-align: left;
+    justify-content: center;
+    border: solid green;
+    border-width: 5px;
+    width: 32%;
+    margin: 5px 34% 5px 34%;
+    font-size: 20px;
+    list-style-type: none;
+    padding : 10px ;
+    box-sizing: border-box;
+}
+
